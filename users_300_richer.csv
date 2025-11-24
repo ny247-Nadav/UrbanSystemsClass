@@ -1,0 +1,301 @@
+user_id,age,gender,language_primary,location_zone,background,observance_level,school_network,availability_times
+1,20,M,Yiddish,East CD12,Satmar,strict,Satmar network,evening
+2,21,F,English/Yiddish,18th Ave cluster,Litvish,strict,Litvish yeshiva,"afternoon, evening"
+3,21,F,Yiddish,East CD12,Litvish,very_strict,Litvish yeshiva,afternoon
+4,26,M,Yiddish,Bay Pkwy edge,Bobov,very_strict,Bobov network,afternoon
+5,26,F,Yiddish,East CD12,Satmar,very_strict,Satmar network,evening
+6,21,M,Yiddish,13th Ave south,Bobov,very_strict,Bobov network,"afternoon, evening"
+7,22,M,Yiddish,East CD12,Satmar,very_strict,Satmar network,afternoon
+8,26,M,English/Yiddish,Bay Pkwy edge,Vizhnitz,medium,Vizhnitz network,evening
+9,22,F,Yiddish,18th Ave cluster,Satmar,very_strict,Satmar network,afternoon
+10,21,F,Yiddish,14th Ave corridor,Vizhnitz,very_strict,Vizhnitz network,evening
+11,25,F,English/Yiddish,50th St belt,Bobov,strict,Bobov network,afternoon
+12,19,F,English/Yiddish,New Utrecht corridor,Litvish,very_strict,Litvish yeshiva,evening
+13,20,F,Yiddish,13th Ave south,Litvish,very_strict,Litvish yeshiva,evening
+14,22,M,English,East CD12,Vizhnitz,very_strict,Vizhnitz network,"afternoon, evening"
+15,26,F,English,13th Ave south,Satmar,medium,Satmar network,evening
+16,22,M,English/Yiddish,14th Ave corridor,Satmar,very_strict,Satmar network,"afternoon, evening"
+17,21,F,Yiddish,18th Ave cluster,Belz,strict,Belz network,afternoon
+18,21,F,English/Yiddish,13th Ave south,Bobov,strict,Bobov network,afternoon
+19,20,M,Yiddish,50th St belt,Litvish,very_strict,Litvish yeshiva,evening
+20,26,M,English/Yiddish,14th Ave corridor,Bobov,strict,Bobov network,afternoon
+21,22,F,English/Yiddish,18th Ave cluster,Bobov,very_strict,Bobov network,afternoon
+22,23,M,Yiddish,50th St belt,Satmar,very_strict,Satmar network,evening
+23,25,M,English/Yiddish,East CD12,Ger,very_strict,Ger network,"afternoon, evening"
+24,20,M,Yiddish,East CD12,Bobov,medium,Bobov network,afternoon
+25,19,M,Yiddish,East CD12,Satmar,very_strict,Satmar network,evening
+26,26,M,English,18th Ave cluster,Satmar,very_strict,Satmar network,evening
+27,19,F,English,East CD12,Bobov,medium,Bobov network,evening
+28,26,M,Yiddish,West CD12,Ger,very_strict,Ger network,evening
+29,26,M,English/Yiddish,14th Ave corridor,Satmar,medium,Satmar network,afternoon
+30,23,F,Yiddish,50th St belt,Bobov,strict,Bobov network,evening
+31,19,F,Yiddish,18th Ave cluster,Belz,very_strict,Belz network,afternoon
+32,21,F,Yiddish,East CD12,Litvish,strict,Litvish yeshiva,evening
+33,23,M,English/Yiddish,14th Ave corridor,Belz,strict,Belz network,evening
+34,21,M,Yiddish,East CD12,Bobov,very_strict,Bobov network,afternoon
+35,24,M,Yiddish,East CD12,Vizhnitz,medium,Vizhnitz network,evening
+36,24,F,English,13th Ave south,Satmar,medium,Satmar network,afternoon
+37,19,M,Yiddish,West CD12,Vizhnitz,medium,Vizhnitz network,evening
+38,25,F,Yiddish,New Utrecht corridor,Litvish,strict,Litvish yeshiva,"afternoon, evening"
+39,26,M,English/Yiddish,New Utrecht corridor,Ger,very_strict,Ger network,evening
+40,21,M,Yiddish,East CD12,Satmar,very_strict,Satmar network,afternoon
+41,22,F,English,18th Ave cluster,Satmar,very_strict,Satmar network,"afternoon, evening"
+42,26,F,Yiddish,East CD12,Satmar,very_strict,Satmar network,evening
+43,21,M,Yiddish,Bay Pkwy edge,Belz,strict,Belz network,evening
+44,20,F,Yiddish,Bay Pkwy edge,Bobov,strict,Bobov network,evening
+45,21,M,Yiddish,West CD12,Belz,very_strict,Belz network,afternoon
+46,25,F,Yiddish,New Utrecht corridor,Ger,very_strict,Ger network,"afternoon, evening"
+47,26,M,English,18th Ave cluster,Litvish,strict,Litvish yeshiva,evening
+48,19,F,English,New Utrecht corridor,Ger,very_strict,Ger network,"afternoon, evening"
+49,26,F,English/Yiddish,13th Ave south,Ger,medium,Ger network,afternoon
+50,20,F,Yiddish,18th Ave cluster,Bobov,strict,Bobov network,"afternoon, evening"
+51,23,M,English,50th St belt,Litvish,very_strict,Litvish yeshiva,evening
+52,24,M,Yiddish,14th Ave corridor,Vizhnitz,very_strict,Vizhnitz network,evening
+53,26,M,English,West CD12,Belz,strict,Belz network,evening
+54,19,F,English,50th St belt,Satmar,very_strict,Satmar network,afternoon
+55,23,M,Yiddish,14th Ave corridor,Belz,strict,Belz network,"afternoon, evening"
+56,20,F,Yiddish,East CD12,Litvish,very_strict,Litvish yeshiva,evening
+57,22,F,Yiddish,West CD12,Bobov,very_strict,Bobov network,evening
+58,25,F,English,13th Ave south,Bobov,very_strict,Bobov network,evening
+59,22,M,English/Yiddish,14th Ave corridor,Belz,strict,Belz network,afternoon
+60,23,M,English,East CD12,Satmar,medium,Satmar network,"afternoon, evening"
+61,23,M,English,14th Ave corridor,Bobov,medium,Bobov network,evening
+62,20,M,Yiddish,East CD12,Bobov,very_strict,Bobov network,afternoon
+63,24,M,Yiddish,14th Ave corridor,Bobov,strict,Bobov network,evening
+64,19,M,Yiddish,18th Ave cluster,Satmar,very_strict,Satmar network,evening
+65,23,M,English,14th Ave corridor,Belz,very_strict,Belz network,"afternoon, evening"
+66,26,M,English/Yiddish,East CD12,Ger,medium,Ger network,evening
+67,25,F,English/Yiddish,West CD12,Litvish,very_strict,Litvish yeshiva,"afternoon, evening"
+68,26,F,Yiddish,East CD12,Bobov,medium,Bobov network,evening
+69,25,F,Yiddish,West CD12,Satmar,very_strict,Satmar network,"afternoon, evening"
+70,24,M,Yiddish,14th Ave corridor,Belz,very_strict,Belz network,evening
+71,26,F,Yiddish,18th Ave cluster,Ger,very_strict,Ger network,evening
+72,21,F,Yiddish,West CD12,Satmar,medium,Satmar network,afternoon
+73,25,F,Yiddish,14th Ave corridor,Ger,very_strict,Ger network,"afternoon, evening"
+74,25,F,English,East CD12,Ger,strict,Ger network,evening
+75,25,F,English/Yiddish,13th Ave south,Satmar,very_strict,Satmar network,evening
+76,21,M,English,East CD12,Vizhnitz,strict,Vizhnitz network,evening
+77,21,M,Yiddish,West CD12,Ger,very_strict,Ger network,evening
+78,19,F,Yiddish,West CD12,Satmar,very_strict,Satmar network,afternoon
+79,24,F,English,14th Ave corridor,Vizhnitz,strict,Vizhnitz network,"afternoon, evening"
+80,20,F,Yiddish,East CD12,Satmar,strict,Satmar network,evening
+81,26,M,English,New Utrecht corridor,Satmar,very_strict,Satmar network,evening
+82,19,M,Yiddish,50th St belt,Vizhnitz,very_strict,Vizhnitz network,afternoon
+83,22,F,Yiddish,14th Ave corridor,Satmar,very_strict,Satmar network,afternoon
+84,26,M,Yiddish,East CD12,Bobov,medium,Bobov network,afternoon
+85,21,M,Yiddish,18th Ave cluster,Litvish,strict,Litvish yeshiva,evening
+86,19,F,Yiddish,13th Ave south,Bobov,strict,Bobov network,"afternoon, evening"
+87,20,F,English/Yiddish,14th Ave corridor,Bobov,strict,Bobov network,evening
+88,21,F,Yiddish,13th Ave south,Satmar,strict,Satmar network,evening
+89,20,F,English,14th Ave corridor,Belz,very_strict,Belz network,evening
+90,19,M,Yiddish,East CD12,Litvish,very_strict,Litvish yeshiva,evening
+91,23,M,English,East CD12,Belz,strict,Belz network,evening
+92,22,M,Yiddish,West CD12,Ger,very_strict,Ger network,evening
+93,25,M,English/Yiddish,New Utrecht corridor,Bobov,very_strict,Bobov network,evening
+94,24,F,Yiddish,New Utrecht corridor,Belz,strict,Belz network,"afternoon, evening"
+95,23,F,Yiddish,14th Ave corridor,Belz,medium,Belz network,evening
+96,24,F,Yiddish,13th Ave south,Bobov,strict,Bobov network,"afternoon, evening"
+97,24,F,English/Yiddish,14th Ave corridor,Bobov,very_strict,Bobov network,evening
+98,21,F,Yiddish,14th Ave corridor,Bobov,medium,Bobov network,evening
+99,24,M,Yiddish,New Utrecht corridor,Belz,very_strict,Belz network,evening
+100,26,F,English/Yiddish,New Utrecht corridor,Bobov,very_strict,Bobov network,evening
+101,23,F,Yiddish,New Utrecht corridor,Litvish,medium,Litvish yeshiva,afternoon
+102,22,F,Yiddish,13th Ave south,Vizhnitz,strict,Vizhnitz network,evening
+103,21,M,Yiddish,50th St belt,Vizhnitz,medium,Vizhnitz network,evening
+104,21,M,Yiddish,13th Ave south,Satmar,strict,Satmar network,"afternoon, evening"
+105,20,F,Yiddish,New Utrecht corridor,Litvish,strict,Litvish yeshiva,afternoon
+106,20,F,English/Yiddish,Bay Pkwy edge,Satmar,very_strict,Satmar network,evening
+107,23,M,Yiddish,14th Ave corridor,Satmar,very_strict,Satmar network,afternoon
+108,21,M,Yiddish,13th Ave south,Vizhnitz,medium,Vizhnitz network,evening
+109,20,M,Yiddish,18th Ave cluster,Bobov,medium,Bobov network,afternoon
+110,21,F,English/Yiddish,14th Ave corridor,Vizhnitz,very_strict,Vizhnitz network,afternoon
+111,26,F,English/Yiddish,50th St belt,Bobov,very_strict,Bobov network,evening
+112,21,M,English/Yiddish,West CD12,Satmar,very_strict,Satmar network,evening
+113,23,M,Yiddish,West CD12,Belz,very_strict,Belz network,evening
+114,25,F,English/Yiddish,East CD12,Bobov,medium,Bobov network,afternoon
+115,21,F,Yiddish,New Utrecht corridor,Ger,very_strict,Ger network,afternoon
+116,23,M,Yiddish,East CD12,Ger,very_strict,Ger network,afternoon
+117,19,M,Yiddish,West CD12,Bobov,medium,Bobov network,afternoon
+118,25,M,English/Yiddish,50th St belt,Satmar,very_strict,Satmar network,evening
+119,25,M,Yiddish,14th Ave corridor,Ger,very_strict,Ger network,evening
+120,19,M,English/Yiddish,13th Ave south,Satmar,very_strict,Satmar network,evening
+121,22,F,Yiddish,50th St belt,Litvish,very_strict,Litvish yeshiva,evening
+122,23,F,Yiddish,14th Ave corridor,Litvish,very_strict,Litvish yeshiva,afternoon
+123,21,M,Yiddish,18th Ave cluster,Ger,very_strict,Ger network,afternoon
+124,21,F,Yiddish,14th Ave corridor,Belz,very_strict,Belz network,"afternoon, evening"
+125,19,F,English/Yiddish,New Utrecht corridor,Bobov,very_strict,Bobov network,"afternoon, evening"
+126,21,F,English/Yiddish,Bay Pkwy edge,Satmar,very_strict,Satmar network,afternoon
+127,26,F,Yiddish,14th Ave corridor,Satmar,very_strict,Satmar network,evening
+128,20,F,English,East CD12,Belz,medium,Belz network,evening
+129,24,F,Yiddish,West CD12,Litvish,very_strict,Litvish yeshiva,evening
+130,22,M,English/Yiddish,14th Ave corridor,Bobov,very_strict,Bobov network,afternoon
+131,26,F,Yiddish,18th Ave cluster,Bobov,medium,Bobov network,"afternoon, evening"
+132,19,F,Yiddish,14th Ave corridor,Satmar,very_strict,Satmar network,"afternoon, evening"
+133,22,M,Yiddish,13th Ave south,Belz,very_strict,Belz network,evening
+134,23,F,Yiddish,New Utrecht corridor,Litvish,strict,Litvish yeshiva,afternoon
+135,21,F,Yiddish,East CD12,Satmar,very_strict,Satmar network,afternoon
+136,25,M,Yiddish,West CD12,Belz,very_strict,Belz network,evening
+137,19,F,Yiddish,18th Ave cluster,Satmar,strict,Satmar network,"afternoon, evening"
+138,20,F,English/Yiddish,14th Ave corridor,Bobov,strict,Bobov network,afternoon
+139,23,M,English/Yiddish,New Utrecht corridor,Ger,very_strict,Ger network,"afternoon, evening"
+140,26,F,English/Yiddish,13th Ave south,Satmar,very_strict,Satmar network,afternoon
+141,21,F,English/Yiddish,14th Ave corridor,Litvish,very_strict,Litvish yeshiva,evening
+142,23,F,Yiddish,18th Ave cluster,Litvish,strict,Litvish yeshiva,"afternoon, evening"
+143,21,M,English/Yiddish,West CD12,Litvish,very_strict,Litvish yeshiva,evening
+144,25,F,English/Yiddish,Bay Pkwy edge,Vizhnitz,very_strict,Vizhnitz network,afternoon
+145,26,M,English/Yiddish,18th Ave cluster,Ger,very_strict,Ger network,afternoon
+146,22,M,Yiddish,18th Ave cluster,Vizhnitz,medium,Vizhnitz network,evening
+147,24,F,Yiddish,East CD12,Ger,very_strict,Ger network,evening
+148,24,F,English,New Utrecht corridor,Bobov,very_strict,Bobov network,evening
+149,26,M,English/Yiddish,14th Ave corridor,Bobov,very_strict,Bobov network,"afternoon, evening"
+150,21,F,Yiddish,East CD12,Bobov,strict,Bobov network,afternoon
+151,23,M,Yiddish,13th Ave south,Belz,very_strict,Belz network,evening
+152,19,M,Yiddish,13th Ave south,Ger,medium,Ger network,afternoon
+153,22,F,Yiddish,East CD12,Belz,very_strict,Belz network,evening
+154,24,M,English/Yiddish,13th Ave south,Bobov,very_strict,Bobov network,afternoon
+155,19,M,Yiddish,Bay Pkwy edge,Ger,very_strict,Ger network,evening
+156,26,M,Yiddish,West CD12,Bobov,very_strict,Bobov network,afternoon
+157,24,M,English/Yiddish,13th Ave south,Vizhnitz,very_strict,Vizhnitz network,afternoon
+158,25,F,English/Yiddish,50th St belt,Satmar,strict,Satmar network,"afternoon, evening"
+159,23,M,Yiddish,14th Ave corridor,Bobov,very_strict,Bobov network,afternoon
+160,25,M,English/Yiddish,14th Ave corridor,Satmar,strict,Satmar network,"afternoon, evening"
+161,22,M,Yiddish,Bay Pkwy edge,Vizhnitz,very_strict,Vizhnitz network,afternoon
+162,19,M,Yiddish,13th Ave south,Bobov,very_strict,Bobov network,afternoon
+163,20,M,English,14th Ave corridor,Satmar,very_strict,Satmar network,evening
+164,24,F,English/Yiddish,Bay Pkwy edge,Bobov,very_strict,Bobov network,evening
+165,26,F,Yiddish,East CD12,Litvish,very_strict,Litvish yeshiva,evening
+166,19,M,Yiddish,13th Ave south,Litvish,medium,Litvish yeshiva,"afternoon, evening"
+167,19,F,Yiddish,East CD12,Vizhnitz,medium,Vizhnitz network,evening
+168,20,M,English,West CD12,Satmar,strict,Satmar network,evening
+169,23,M,English/Yiddish,West CD12,Vizhnitz,medium,Vizhnitz network,evening
+170,22,M,English,13th Ave south,Ger,very_strict,Ger network,afternoon
+171,23,M,English,14th Ave corridor,Belz,very_strict,Belz network,evening
+172,20,M,English,14th Ave corridor,Bobov,very_strict,Bobov network,"afternoon, evening"
+173,24,M,Yiddish,18th Ave cluster,Vizhnitz,medium,Vizhnitz network,evening
+174,23,F,Yiddish,18th Ave cluster,Litvish,very_strict,Litvish yeshiva,"afternoon, evening"
+175,23,F,Yiddish,14th Ave corridor,Bobov,very_strict,Bobov network,afternoon
+176,25,M,English/Yiddish,West CD12,Ger,strict,Ger network,"afternoon, evening"
+177,19,M,Yiddish,Bay Pkwy edge,Satmar,very_strict,Satmar network,evening
+178,24,F,English/Yiddish,18th Ave cluster,Ger,strict,Ger network,afternoon
+179,19,F,Yiddish,13th Ave south,Belz,very_strict,Belz network,evening
+180,26,M,English,Bay Pkwy edge,Bobov,strict,Bobov network,evening
+181,22,F,Yiddish,14th Ave corridor,Bobov,medium,Bobov network,"afternoon, evening"
+182,24,F,Yiddish,New Utrecht corridor,Belz,strict,Belz network,afternoon
+183,20,F,English,East CD12,Litvish,very_strict,Litvish yeshiva,evening
+184,25,M,English/Yiddish,New Utrecht corridor,Satmar,very_strict,Satmar network,"afternoon, evening"
+185,26,M,English,18th Ave cluster,Bobov,very_strict,Bobov network,evening
+186,19,M,English,Bay Pkwy edge,Satmar,very_strict,Satmar network,evening
+187,24,M,Yiddish,East CD12,Bobov,very_strict,Bobov network,evening
+188,25,F,English,13th Ave south,Litvish,very_strict,Litvish yeshiva,evening
+189,20,M,English,East CD12,Bobov,very_strict,Bobov network,evening
+190,19,F,Yiddish,18th Ave cluster,Vizhnitz,very_strict,Vizhnitz network,evening
+191,20,F,Yiddish,East CD12,Belz,medium,Belz network,evening
+192,24,F,Yiddish,13th Ave south,Vizhnitz,very_strict,Vizhnitz network,evening
+193,19,F,English/Yiddish,13th Ave south,Satmar,very_strict,Satmar network,evening
+194,19,M,Yiddish,13th Ave south,Belz,very_strict,Belz network,afternoon
+195,24,M,English/Yiddish,13th Ave south,Ger,very_strict,Ger network,"afternoon, evening"
+196,24,M,Yiddish,13th Ave south,Bobov,medium,Bobov network,"afternoon, evening"
+197,24,F,English,West CD12,Bobov,very_strict,Bobov network,"afternoon, evening"
+198,21,M,Yiddish,Bay Pkwy edge,Bobov,strict,Bobov network,afternoon
+199,25,F,English/Yiddish,13th Ave south,Vizhnitz,strict,Vizhnitz network,"afternoon, evening"
+200,24,M,Yiddish,Bay Pkwy edge,Litvish,strict,Litvish yeshiva,afternoon
+201,20,M,English,14th Ave corridor,Satmar,strict,Satmar network,evening
+202,23,F,English/Yiddish,East CD12,Vizhnitz,strict,Vizhnitz network,afternoon
+203,23,M,Yiddish,13th Ave south,Bobov,very_strict,Bobov network,"afternoon, evening"
+204,20,F,English,East CD12,Bobov,very_strict,Bobov network,evening
+205,22,F,Yiddish,New Utrecht corridor,Bobov,strict,Bobov network,evening
+206,23,M,English/Yiddish,Bay Pkwy edge,Belz,very_strict,Belz network,afternoon
+207,19,F,English,East CD12,Vizhnitz,very_strict,Vizhnitz network,evening
+208,25,M,Yiddish,18th Ave cluster,Litvish,very_strict,Litvish yeshiva,evening
+209,25,F,Yiddish,18th Ave cluster,Litvish,very_strict,Litvish yeshiva,evening
+210,25,F,English,East CD12,Litvish,very_strict,Litvish yeshiva,evening
+211,19,M,Yiddish,East CD12,Belz,very_strict,Belz network,"afternoon, evening"
+212,24,F,English/Yiddish,13th Ave south,Bobov,very_strict,Bobov network,afternoon
+213,24,F,English,East CD12,Bobov,very_strict,Bobov network,evening
+214,19,M,Yiddish,West CD12,Litvish,very_strict,Litvish yeshiva,afternoon
+215,20,F,English/Yiddish,West CD12,Satmar,strict,Satmar network,evening
+216,23,M,English,West CD12,Bobov,very_strict,Bobov network,afternoon
+217,26,M,English,14th Ave corridor,Belz,strict,Belz network,afternoon
+218,23,M,Yiddish,50th St belt,Satmar,very_strict,Satmar network,"afternoon, evening"
+219,26,M,Yiddish,14th Ave corridor,Belz,very_strict,Belz network,afternoon
+220,22,M,English/Yiddish,East CD12,Satmar,strict,Satmar network,evening
+221,24,M,Yiddish,14th Ave corridor,Bobov,strict,Bobov network,evening
+222,20,F,Yiddish,West CD12,Satmar,strict,Satmar network,evening
+223,21,M,Yiddish,New Utrecht corridor,Litvish,strict,Litvish yeshiva,evening
+224,20,F,Yiddish,50th St belt,Bobov,strict,Bobov network,evening
+225,23,F,Yiddish,18th Ave cluster,Satmar,strict,Satmar network,"afternoon, evening"
+226,23,M,Yiddish,13th Ave south,Satmar,strict,Satmar network,evening
+227,21,F,Yiddish,14th Ave corridor,Ger,strict,Ger network,evening
+228,20,M,Yiddish,14th Ave corridor,Vizhnitz,very_strict,Vizhnitz network,evening
+229,22,M,Yiddish,East CD12,Vizhnitz,very_strict,Vizhnitz network,"afternoon, evening"
+230,20,M,English/Yiddish,50th St belt,Ger,very_strict,Ger network,evening
+231,24,M,Yiddish,50th St belt,Litvish,very_strict,Litvish yeshiva,evening
+232,24,M,English,West CD12,Litvish,strict,Litvish yeshiva,evening
+233,22,F,English,13th Ave south,Belz,very_strict,Belz network,evening
+234,23,M,English,18th Ave cluster,Satmar,very_strict,Satmar network,afternoon
+235,19,M,English,East CD12,Ger,strict,Ger network,evening
+236,19,M,Yiddish,18th Ave cluster,Ger,very_strict,Ger network,afternoon
+237,20,F,English,18th Ave cluster,Bobov,strict,Bobov network,afternoon
+238,26,M,Yiddish,14th Ave corridor,Bobov,very_strict,Bobov network,"afternoon, evening"
+239,24,F,Yiddish,50th St belt,Litvish,very_strict,Litvish yeshiva,evening
+240,19,F,Yiddish,West CD12,Belz,very_strict,Belz network,evening
+241,20,F,Yiddish,14th Ave corridor,Belz,very_strict,Belz network,"afternoon, evening"
+242,22,M,Yiddish,14th Ave corridor,Bobov,very_strict,Bobov network,"afternoon, evening"
+243,24,M,Yiddish,14th Ave corridor,Bobov,very_strict,Bobov network,evening
+244,22,F,Yiddish,50th St belt,Satmar,very_strict,Satmar network,evening
+245,20,M,Yiddish,13th Ave south,Litvish,very_strict,Litvish yeshiva,evening
+246,26,F,English/Yiddish,13th Ave south,Bobov,strict,Bobov network,evening
+247,20,M,Yiddish,West CD12,Ger,very_strict,Ger network,evening
+248,25,M,Yiddish,East CD12,Bobov,very_strict,Bobov network,evening
+249,26,F,Yiddish,50th St belt,Bobov,very_strict,Bobov network,evening
+250,21,M,English,13th Ave south,Satmar,medium,Satmar network,evening
+251,19,M,Yiddish,13th Ave south,Bobov,strict,Bobov network,evening
+252,20,M,Yiddish,14th Ave corridor,Ger,medium,Ger network,evening
+253,24,M,Yiddish,13th Ave south,Bobov,medium,Bobov network,"afternoon, evening"
+254,21,F,Yiddish,14th Ave corridor,Satmar,very_strict,Satmar network,afternoon
+255,26,M,Yiddish,13th Ave south,Litvish,strict,Litvish yeshiva,evening
+256,21,F,Yiddish,Bay Pkwy edge,Litvish,very_strict,Litvish yeshiva,evening
+257,22,F,English,West CD12,Belz,medium,Belz network,evening
+258,26,M,Yiddish,14th Ave corridor,Satmar,very_strict,Satmar network,evening
+259,24,F,Yiddish,West CD12,Litvish,very_strict,Litvish yeshiva,"afternoon, evening"
+260,23,F,Yiddish,14th Ave corridor,Litvish,medium,Litvish yeshiva,"afternoon, evening"
+261,22,F,Yiddish,New Utrecht corridor,Ger,strict,Ger network,"afternoon, evening"
+262,20,F,Yiddish,14th Ave corridor,Ger,medium,Ger network,evening
+263,25,F,Yiddish,East CD12,Satmar,very_strict,Satmar network,"afternoon, evening"
+264,23,F,Yiddish,West CD12,Vizhnitz,very_strict,Vizhnitz network,evening
+265,25,F,English/Yiddish,13th Ave south,Ger,very_strict,Ger network,"afternoon, evening"
+266,25,F,Yiddish,14th Ave corridor,Ger,very_strict,Ger network,"afternoon, evening"
+267,20,F,Yiddish,West CD12,Bobov,very_strict,Bobov network,afternoon
+268,20,M,English,13th Ave south,Litvish,very_strict,Litvish yeshiva,"afternoon, evening"
+269,26,F,Yiddish,50th St belt,Belz,strict,Belz network,evening
+270,24,F,Yiddish,West CD12,Belz,very_strict,Belz network,evening
+271,19,M,Yiddish,18th Ave cluster,Vizhnitz,strict,Vizhnitz network,afternoon
+272,26,M,Yiddish,Bay Pkwy edge,Litvish,medium,Litvish yeshiva,evening
+273,23,F,Yiddish,14th Ave corridor,Vizhnitz,strict,Vizhnitz network,evening
+274,23,M,Yiddish,14th Ave corridor,Belz,very_strict,Belz network,evening
+275,22,M,Yiddish,14th Ave corridor,Litvish,very_strict,Litvish yeshiva,evening
+276,26,F,English/Yiddish,18th Ave cluster,Bobov,very_strict,Bobov network,evening
+277,22,F,Yiddish,14th Ave corridor,Satmar,strict,Satmar network,"afternoon, evening"
+278,24,F,Yiddish,18th Ave cluster,Vizhnitz,very_strict,Vizhnitz network,evening
+279,25,M,English,14th Ave corridor,Satmar,very_strict,Satmar network,afternoon
+280,25,M,Yiddish,50th St belt,Bobov,medium,Bobov network,"afternoon, evening"
+281,26,M,English/Yiddish,West CD12,Satmar,strict,Satmar network,evening
+282,20,M,English/Yiddish,18th Ave cluster,Satmar,strict,Satmar network,evening
+283,23,M,English,13th Ave south,Belz,very_strict,Belz network,afternoon
+284,23,F,Yiddish,14th Ave corridor,Vizhnitz,medium,Vizhnitz network,evening
+285,22,M,Yiddish,18th Ave cluster,Ger,very_strict,Ger network,evening
+286,21,M,Yiddish,50th St belt,Bobov,very_strict,Bobov network,"afternoon, evening"
+287,22,F,English,East CD12,Bobov,medium,Bobov network,afternoon
+288,19,M,English,West CD12,Ger,medium,Ger network,evening
+289,19,M,Yiddish,West CD12,Bobov,very_strict,Bobov network,"afternoon, evening"
+290,26,M,English/Yiddish,East CD12,Satmar,very_strict,Satmar network,afternoon
+291,24,M,English,18th Ave cluster,Vizhnitz,very_strict,Vizhnitz network,"afternoon, evening"
+292,25,F,Yiddish,14th Ave corridor,Bobov,strict,Bobov network,afternoon
+293,26,F,Yiddish,18th Ave cluster,Bobov,strict,Bobov network,evening
+294,19,F,Yiddish,New Utrecht corridor,Belz,very_strict,Belz network,evening
+295,26,F,Yiddish,14th Ave corridor,Ger,very_strict,Ger network,afternoon
+296,20,F,Yiddish,New Utrecht corridor,Ger,strict,Ger network,evening
+297,26,F,English,East CD12,Bobov,strict,Bobov network,afternoon
+298,25,F,Yiddish,East CD12,Litvish,very_strict,Litvish yeshiva,evening
+299,20,M,Yiddish,East CD12,Ger,very_strict,Ger network,evening
+300,19,F,English,14th Ave corridor,Belz,medium,Belz network,evening
